@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700');
+
+$font-family-sans-serif:      -apple-system, BlinkMacSystemFont, "Ubuntu", "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+
+$primary:       #3f51b5;
+$secondary:     #607d8b;
+$success:       #4CAF50;
+$info:          #2196f3;
+$warning:       #FFD740;
+$danger:        #FF5252;
+$light:         #ECEFF1;
+$dark:          #424242;
+
+$yiq-text-dark:             rgba(0,0,0,0.87);
+$yiq-text-light:            rgba(255,255,255,0.87);
+
+$body-bg:                   #F5F5F6;
+$body-color:                rgba(0,0,0,0.87);
+
+$link-hover-decoration:			none;
+
+$table-cell-padding:				.6rem;
+$border-color:							rgba(0,0,0,0.12);
+
+@import "material_icons";
+@import "bootstrap";
